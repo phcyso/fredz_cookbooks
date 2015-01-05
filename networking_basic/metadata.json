@@ -1,4 +1,5 @@
 {
+    "name": "networking_basic",
     "version": "0.0.7",
     "maintainer": "Frederico Araujo, Tim Smith, atomic-penguin (Eric G. Wolfe)",
     "replacing": {
